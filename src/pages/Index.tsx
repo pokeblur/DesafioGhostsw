@@ -37,6 +37,15 @@ const Index = () => {
       muscle: 30.4,
       visceralFat: 15.0,
       bodyAge: 64
+    },
+    {
+      date: '2025-10-15',
+      weight: 99.8,
+      bmi: 33,
+      bodyFat: 36.6,
+      muscle: 30.5,
+      visceralFat: 14,
+      bodyAge: 63
     }
   ];
 
